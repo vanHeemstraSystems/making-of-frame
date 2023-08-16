@@ -1,6 +1,6 @@
 # 600 - Create the root .gitignore file
 
-Inside the root of the repository https://github.com/creations-global/frame, create a file called ```czrc``` with the following content:
+Inside the root of the repository https://github.com/creations-global/frame, create a file called ```.gitignore``` with the following content:
 
 ```
 *.log
