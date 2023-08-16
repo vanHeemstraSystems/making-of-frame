@@ -28,4 +28,8 @@ See [README.md](./600/README.md)
 
 See [README.md](./700/README.md)
 
+## 800 - Create the root CODE_OF_CONDUCT.md file
+
+See [README.md](./800/README.md)
+
 == WE ARE HERE ==
