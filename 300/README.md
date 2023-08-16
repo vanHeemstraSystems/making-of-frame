@@ -36,4 +36,8 @@ See [README.md](./800/README.md)
 
 See [README.md](./900/README.md)
 
+## 1000 - Create the root LICENSE file
+
+See [README.md](./1000/README.md)
+
 == WE ARE HERE ==
