@@ -52,4 +52,8 @@ See [README.md](./1200/README.md)
 
 See [README.md](./1300/README.md)
 
+## 1400 - Set the NPM_TOKEN in settings/secrets/actions/Repository secrets
+
+See [README.md](./1400/README.md)
+
 == WE ARE HERE ==
