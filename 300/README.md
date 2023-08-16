@@ -88,4 +88,8 @@ See [README.md](./2100/README.md)
 
 See [README.md](./2200/README.md)
 
+## 2300 - Test storybook
+
+See [README.md](./2300/README.md)
+
 == WE ARE HERE ==
