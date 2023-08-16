@@ -6,6 +6,8 @@ Gitpod will automatically build a development environment for you, using the cod
 
 In Gitpod development environment you can use the integrated terminal to execute commands.
 
+Gitpod will by default run the script ```start``` in package.json and therefor set the development environment to watch for code changes. Hence, open a separate terminal session to edit your files.
+
 To commit changes after making file changes run the following command:
 
 ```
