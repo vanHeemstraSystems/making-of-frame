@@ -68,4 +68,8 @@ See [README.md](./1600/README.md)
 
 See [README.md](./1700/README.md)
 
+## 1800 - Run yarn install --mode update-lockfile in root
+
+See [README.md](./1800/README.md)
+
 == WE ARE HERE ==
