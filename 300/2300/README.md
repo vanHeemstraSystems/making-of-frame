@@ -1,6 +1,6 @@
 # 2300 - Test storybook
 
-Open the repository in gitpod by following this URL or clicking on the Gitpod button along the top of the page.
+Open the repository in gitpod by following this URL https://gitpod.io/new/#https://github.com/creations-global/frame/blob/main/README.md or clicking on the Gitpod button along the top of the page.
 
 Gitpod will automatically build a development environment for you, using the code from the repository.
 
