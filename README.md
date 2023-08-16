@@ -1,7 +1,7 @@
 making-of-frame
 # Making of Frame
 
-Based on "" at 
+Based on "Fully Automated npm publish using GitHub Actions and Semantic Release" at https://www.youtube.com/watch?v=QZdY4XYbqLI 
 
 **WARNING**: In order for the automation to successfully push changes to the repository, make sure you have set the following at your repository's "Settings" > "Actions" > "General":
 
