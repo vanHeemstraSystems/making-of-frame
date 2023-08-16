@@ -1,6 +1,6 @@
 # 800 - Create the root CODE_OF_CONDUCT.md file
 
-Inside the root of the repository https://github.com/creations-global/frame, create a file called ```.gitpod.yml``` with the following content:
+Inside the root of the repository https://github.com/creations-global/frame, create a file called ```CODE_OF_CONDUCT.md``` with the following content:
 
 ```
 # Code of Conduct
