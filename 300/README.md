@@ -60,4 +60,8 @@ See [README.md](./1400/README.md)
 
 See [README.md](./1500/README.md)
 
+## 1600 - Create the stories/Thing.stories.tsx file
+
+See [README.md](./1600/README.md)
+
 == WE ARE HERE ==
