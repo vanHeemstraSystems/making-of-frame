@@ -3,6 +3,53 @@ making-of-frame
 
 Based on "" at 
 
+**WARNING**: In order for the automation to successfully push changes to the repository, make sure you have set the following at your repository's "Settings" > "Actions" > "General":
+
+Workflow permissions
+
+- [Checked]: Read and write permissions
+- [Unchecked]: Read repository contents and packages permissions
+
+If the option is disabled, you can enable that option under ORGANIZATION settings not REPO settings.
+
+Organizations's "Settings" > "Actions" > "General":
+
+Workflow permissions
+
+- [Checked]: Read and write permissions
+- [Unchecked]: Read repository contents and packages permissions
+
+# Executive Summary
+
+To commit changes after making file changes run the following command:
+
+```
+$ git add .
+$ npx cz
+```
+
+This will trigger *commitizen (cz)* and you will be prompted to describe your change. 
+
+Follow with ```git push```.
+
+Our Github Actions workflow with automatically build a package from the source code and publish it to npm.
+
+You can see the latest releases in the Github repository at https://github.com/creations-global/frame/releases
+
+After a successful publish of the package to npm, you can view the package on npmjs.com by entering the following in the search on https://npmjs.com:
+
+```
+@creations-global/frame
+```
+
+Or go directly to https://www.npmjs.com/package/@creations-global/frame
+
+To install the node module package use the following:
+
+```
+$ npm i @creations-global/frame
+```
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
