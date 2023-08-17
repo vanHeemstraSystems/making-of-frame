@@ -92,3 +92,5 @@ Inside the root of the repository https://github.com/creations-global/frame, cre
   }
 ```
 package.json
+
+**NOTE**: Pay close attention, the **name** in the above package.json is ```"name": "@creations_global/frame"```, instead of ```creations-global```, as this is the name that was available at the time of registration with npm.
