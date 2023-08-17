@@ -50,7 +50,7 @@ Inside the root of the repository https://github.com/creations-global/frame, cre
       "singleQuote": true,
       "trailingComma": "es5"
     },
-    "name": "@creations-global/frame",
+    "name": "@creations_global/frame",
     "author": "Willem van Heemstra",
     "module": "dist/frame.esm.js",
     "size-limit": [
