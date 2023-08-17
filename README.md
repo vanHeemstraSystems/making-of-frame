@@ -39,15 +39,17 @@ You can see the latest releases in the Github repository at https://github.com/c
 After a successful publish of the package to npm, you can view the package on npmjs.com by entering the following in the search on https://npmjs.com:
 
 ```
-@creations-global/frame
+@creationsglobal/frame
 ```
 
-Or go directly to https://www.npmjs.com/package/@creations-global/frame
+**NOTE**: On npm the organization name is not creations-global, but creationsglobal (as creations-global was no longer available).
+
+Or go directly to https://www.npmjs.com/package/@creationsglobal/frame
 
 To install the node module package use the following:
 
 ```
-$ npm i @creations-global/frame
+$ npm i @creationsglobal/frame
 ```
 
 ## 100 - Introduction
