@@ -87,6 +87,4 @@ If you check the publish.yml GitHub action, you will see that the ```publish``` 
 
 However, since we merged the change into the ```main``` branch, a new GitHub action has started automatically which will also include the ```publish``` instruction, as it is on the ```main``` branch.
 
-~~**NOTE**: Currently publishing to NPM fails as it cannot find https://registry.npmjs.org/@creations_global%2fframe  This needs to be fixed ...~~
-
 More ... to see how to test storybook, watch [Create and Publish packages to npm - React Component Library using tsdx](https://www.youtube.com/watch?v=aVFasPXkyRE)
