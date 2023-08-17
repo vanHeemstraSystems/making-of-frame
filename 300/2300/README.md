@@ -29,6 +29,8 @@ After a successful publish of the package to npm, you can view the package on np
 @creationsglobal/frame
 ```
 
+**NOTE**: On npm the organization name is not creations-global, but creationsglobal (as creations-global was no longer available).
+
 Or go directly to https://www.npmjs.com/package/@creationsglobal/frame
 
 To install the node module package use the following:
