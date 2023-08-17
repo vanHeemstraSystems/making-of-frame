@@ -26,17 +26,17 @@ You can see the latest releases in the Github repository at https://github.com/c
 After a successful publish of the package to npm, you can view the package on npmjs.com by entering the following in the search on https://npmjs.com:
 
 ```
-@creationsglobal/frame
+@creations_global/frame
 ```
 
-**NOTE**: On npm the organization name is not creations-global, but creationsglobal (as creations-global was no longer available).
+**NOTE**: On npm the organization name is not creations-global, but creations_global (as creations-global was no longer available).
 
-Or go directly to https://www.npmjs.com/package/@creationsglobal/frame
+Or go directly to https://www.npmjs.com/package/@creations_global/frame
 
 To install the node module package use the following:
 
 ```
-$ npm i @creationsglobal/frame
+$ npm i @creations_global/frame
 ```
 
 Alternatively, you can test creating a **pull request** by creating a **new feature**, by changing a file, followed by this command (replace name-your-feature-here with an appropriate text):
@@ -87,6 +87,6 @@ If you check the publish.yml GitHub action, you will see that the ```publish``` 
 
 However, since we merged the change into the ```main``` branch, a new GitHub action has started automatically which will also include the ```publish``` instruction, as it is on the ```main``` branch.
 
-**NOTE**: Currently publishing to NPM fails as it cannot find https://registry.npmjs.org/@creations-global%2fframe  This needs to be fixed ...
+~~**NOTE**: Currently publishing to NPM fails as it cannot find https://registry.npmjs.org/@creations_global%2fframe  This needs to be fixed ...~~
 
 More ... to see how to test storybook, watch [Create and Publish packages to npm - React Component Library using tsdx](https://www.youtube.com/watch?v=aVFasPXkyRE)
